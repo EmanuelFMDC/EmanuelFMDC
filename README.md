@@ -7,7 +7,8 @@ Guadalajara, México · abierto a nuevas oportunidades
 Construyo aplicaciones web completas, de la arquitectura a las pruebas end-to-end. Llevo 4+ años con React y TypeScript; desarrollé de principio a fin el frontend de dos PWA tipo marketplace y, antes, 10+ sitios para pequeñas empresas como freelance.
 
 <a href="mailto:emanuelfmdc23@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/emanuelfmdc23%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/EmanuelFMDC/portafolio"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-18181B?style=flat-square&logo=nextdotjs&logoColor=white"></a>
+<a href="https://emanuelfmdc.vercel.app/"><img alt="Portafolio" src="https://img.shields.io/badge/emanuelfmdc.vercel.app-18181B?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/emanuelfmdc"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 
 ---
 
@@ -34,7 +35,7 @@ Construyo aplicaciones web completas, de la arquitectura a las pruebas end-to-en
 | **Marketplace de renta** | PWA que conecta arrendadores e inquilinos con búsqueda, reservas y chat en tiempo real. | React · TypeScript · Redux Toolkit · WebSockets · MUI |
 | **Plataforma de reparaciones** | PWA tipo Uber con flujos separados para clientes y proveedores sobre el mismo producto. | React · TypeScript · Redux Toolkit · Tailwind |
 | **Automatización de facturación** | Script que reemplazó la facturación manual en Excel de ventas y compras. | Google Apps Script |
-| **[Portafolio](https://github.com/EmanuelFMDC/portafolio)** | Sitio con casos de estudio en MDX, pruebas unitarias y E2E, y CI en GitHub Actions. | Next.js · TypeScript · Tailwind · Vitest · Playwright |
+| **[Portafolio](https://emanuelfmdc.vercel.app/)** | Sitio con casos de estudio en MDX, pruebas unitarias y E2E, y CI en GitHub Actions. [Código](https://github.com/EmanuelFMDC/portafolio). | Next.js · TypeScript · Tailwind · Vitest · Playwright |
 
 ### Stack
 
