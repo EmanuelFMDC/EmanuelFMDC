@@ -10,7 +10,7 @@
 
 - 📝 Soy autodidacta, siempre trato de aprender nuevas cosas y estar al corriente con la tecnología.
 - 🌐 Mi punto fuerte es la programación web.
-- 📧 Pueden encontrar mi correo de trabajo como "emanuel2303e@gmail.com".
+- 📧 Pueden encontrar mi correo de trabajo como "emanuelfmdc23@gmail.com".
 <div id="badges" align="center">
     <h3 align="left">🛠 Lenguajes y herramientas</h3>
     <a href="#">
