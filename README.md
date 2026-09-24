@@ -1,75 +1,56 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
-    <h1 align="center">Hola, soy Emanuel FMDC un programador especializado en programación web!</h1>
-    <h3 align="center">Soy un amante de la programación que le gusta crecer en todos los ambitos, nunca me canso de aprender nuevas tecnologias y siempre trato de dar lo mejor de mi y ayudar a los demas a ser mejores.</h3>
-</div>
+<h1>Emanuel Frías</h1>
+
+**Desarrollador Frontend · React y TypeScript**
+<br>
+Guadalajara, México · abierto a remoto
+
+Construyo aplicaciones web completas, de la arquitectura a las pruebas end-to-end. Llevo 4+ años con React y TypeScript; desarrollé de principio a fin el frontend de dos PWA tipo marketplace y, antes, 10+ sitios para pequeñas empresas como freelance.
+
+<a href="mailto:emanuelfmdc23@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/emanuelfmdc23%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/EmanuelFMDC/portafolio"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-18181B?style=flat-square&logo=nextdotjs&logoColor=white"></a>
 
 ---
 
-### 🌍 Sobre mí;
+### En números
 
-- 📝 Soy autodidacta, siempre trato de aprender nuevas cosas y estar al corriente con la tecnología.
-- 🌐 Mi punto fuerte es la programación web.
-- 📧 Pueden encontrar mi correo de trabajo como "emanuelfmdc23@gmail.com".
-<div id="badges" align="center">
-    <h3 align="left">🛠 Lenguajes y herramientas</h3>
-    <a href="#">
-        <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    </a>
-    <a href="#">
-        <img alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    </a>
-    <a href="#">
-        <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="materialui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="redux" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-    </a>
-</div>
+| 4+ años | 2 PWA | 25+ pantallas | 50+ endpoints |
+| :-- | :-- | :-- | :-- |
+| con React y TypeScript | tipo marketplace, de principio a fin | construidas y probadas | de API integrados |
 
----
+### Experiencia
 
-<h3 align="left">📈 Mis estadisticas</h3>
+**Desarrollador Frontend** · Nahual Consultores · 2025 – 2026
+- Frontend completo de 2 PWA tipo marketplace: arquitectura, estado y 25+ pantallas.
+- Mensajería en tiempo real con WebSockets e integración de 50+ endpoints.
+- Pruebas con Vitest, React Testing Library y Playwright.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmanuelFMDC&theme=buefy-dark&locale=es)](https://git.io/streak-stats)
-<!--
-**EmanuelFMDC/EmanuelFMDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador web** · Freelance · 2022 – 2024
+- 10+ sitios para pequeñas empresas, del diseño a la publicación.
 
-Here are some ideas to get you started:
+### Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Proyecto | Qué es | Stack |
+| :-- | :-- | :-- |
+| **Marketplace de renta** | PWA que conecta arrendadores e inquilinos con búsqueda, reservas y chat en tiempo real. | React · TypeScript · Redux Toolkit · WebSockets · MUI |
+| **Plataforma de reparaciones** | PWA tipo Uber con flujos separados para clientes y proveedores sobre el mismo producto. | React · TypeScript · Redux Toolkit · Tailwind |
+| **Automatización de facturación** | Script que reemplazó la facturación manual en Excel de ventas y compras. | Google Apps Script |
+| **[Portafolio](https://github.com/EmanuelFMDC/portafolio)** | Sitio con casos de estudio en MDX, pruebas unitarias y E2E, y CI en GitHub Actions. | Next.js · TypeScript · Tailwind · Vitest · Playwright |
+
+### Stack
+
+<p>
+  <img alt="Tecnologías" src="https://skillicons.dev/icons?i=ts,js,react,redux,html,css,tailwind,materialui,vitest,nextjs,nodejs&perline=11">
+</p>
+
+- **Lenguajes:** TypeScript, JavaScript, HTML, CSS
+- **Frontend:** React, Redux Toolkit, React Router, Axios, WebSockets
+- **UI:** Tailwind CSS, MUI
+- **Testing:** Vitest, React Testing Library, Playwright
+- **Automatización:** Google Apps Script
+- **Aprendiendo ahora:** Next.js y Node.js
+
+### Actividad
+
+<p>
+  <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=EmanuelFMDC&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D">
+</p>
