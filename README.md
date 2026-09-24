@@ -2,7 +2,7 @@
 
 **Desarrollador Frontend · React y TypeScript**
 <br>
-Guadalajara, México · abierto a remoto
+Guadalajara, México · abierto a nuevas oportunidades
 
 Construyo aplicaciones web completas, de la arquitectura a las pruebas end-to-end. Llevo 4+ años con React y TypeScript; desarrollé de principio a fin el frontend de dos PWA tipo marketplace y, antes, 10+ sitios para pequeñas empresas como freelance.
 
